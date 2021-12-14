@@ -1,2 +1,2 @@
-# proyecto-rails
-mi primer trabajo en rails
+# projecto-Rails
+ proyecto rails 1
